@@ -1,4 +1,4 @@
-# Baixe as bibliotecas abaixo:
+# Baixe a biblioteca abaixo:
 
 pip install pypdf2
 
